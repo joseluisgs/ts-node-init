@@ -1,4 +1,4 @@
-# TypeScrip y Node
+# TypeScrip y Node.js
 Plantilla de TypeScript para NodeJS, con estilo ESLint Airbnb y soporte ES6.
 
 ## Autor

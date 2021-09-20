@@ -1,5 +1,12 @@
 # TypeScript y Node.js
 Plantilla de TypeScript para NodeJS, con estilo ESLint Airbnb y soporte ES6.
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-3178c6)](https://www.typescriptlang.org/)
+[![Code Style](https://img.shields.io/badge/Lint%20Style-AirBnB-ff69b4)](https://airbnb.io/javascript)
+[![Licence](https://img.shields.io/github/license/joseluisgs/photo-gallery-ionic)](./LICENSE)
+![GitHub](https://img.shields.io/github/last-commit/joseluisgs/ts-node-init)
+
+
 ![imagen](https://i.pinimg.com/originals/c3/8e/e8/c38ee8475ee7f3680f706c56c3a1194c.png)
 
 - [TypeScript y Node.js](#typescript-y-nodejs)

@@ -17,6 +17,7 @@ Plantilla de TypeScript para NodeJS, con estilo ESLint Airbnb y soporte ES6.
       - [Ejecución Modo Dev](#ejecución-modo-dev)
       - [Ejecución con Nodemon](#ejecución-con-nodemon)
       - [Linter](#linter)
+  - [Extensiones de interés](#extensiones-de-interés)
   - [Autor](#autor)
     - [Contacto](#contacto)
   - [Licencia](#licencia)
@@ -51,6 +52,16 @@ npm run lint
 o
 npm run lint:fix
 ```
+
+## Extensiones de interés
+- Error Lens: Nos muestra los errores en el mismo editor según nuestro Linter.
+- ESLint: Linter para TypeScript/JavaScript.
+- Git Graph: Para ver nuestro repositorio en forma de gráfica.
+- Tabnine: IA para nuestro código potenciando la codificación del mismo.
+- JavaSCript (ES6) code snippets: Snippets para TypeScript/JavaScript.
+- Quokka.js: Para ejecutar nuestro código.
+- Visual Studio IntelliCode: mejorar el autocompletado de codigo.
+
 
 ## Autor
 

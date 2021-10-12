@@ -1,5 +1,5 @@
 # TypeScript y Node.js
-Plantilla de TypeScript para NodeJS, con estilo ESLint Airbnb y soporte ES6.
+Plantilla de TypeScript para NodeJS, con estilo ESLint y soporte ES6, para usar en VS Code e ItellIj.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-3178c6)](https://www.typescriptlang.org/)
 [![Code Style](https://img.shields.io/badge/Lint%20Style-AirBnB-ff69b4)](https://airbnb.io/javascript)
